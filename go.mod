@@ -21,7 +21,7 @@ require (
 	github.com/xeipuuv/gojsonschema v0.0.0-20170210233622-6b67b3fab74d
 	golang.org/x/net v0.0.0-20191027093000-83d349e8ac1a
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4
-	golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
+	golang.org/x/sys v0.1.0
 )
 
 go 1.11
